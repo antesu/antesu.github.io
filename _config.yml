@@ -26,8 +26,8 @@ author:
   name             : "Ante Su" #Your Sidebar Name
   pronouns         : # example: "she/her"  
   bio              : "Bachelor's Student in Mechanical Engineering" #"Short biography for the left-hand sidebar" "PhD Student in Mechanical Engineering"
-  location         : "School of Mechanical Engineering, Shandong University, Jinan 250002, P. R. China" #"Department of Mechanical, Industrial and Aerospace
-Engineering, Concordia University, Montreal, QC H3G 1M8, Canada"
+  location         : "School of Mechanical Engineering, Shandong University, Jinan 250002, P. R. China" 
+  #"Department of Mechanical, Industrial and Aerospace Engineering, Concordia University, Montreal, QC H3G 1M8, Canada"
   employer         : "Shandong University" #"Concordia University"
   uri              : # URL
   email            : "antesu@mail.sdu.edu.cn" 
