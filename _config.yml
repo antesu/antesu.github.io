@@ -30,7 +30,7 @@ author:
   #"Department of Mechanical, Industrial and Aerospace Engineering, Concordia University, Montreal, QC H3G 1M8, Canada"
   employer         : "Shandong University" #"Concordia University"
   uri              : # URL
-  email            : "antesu@mail.sdu.edu.cn" 
+  email:antesu@mail.sdu.edu.cn            : "antesu@mail.sdu.edu.cn11" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
