@@ -12,39 +12,27 @@ I'm a last year undergraduate student from Shandong University. My major is ME.
 
 Selected Publications
 ======
-Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels
-Journal of the Franklin Institute
-2025 | Journal article
-DOI: 10.1016/j.jfranklin.2025.107523
-EID: 2-s2.0-85216524942
-Part of ISSN: 00160032
-Contributors: Liu, Y.-F.; Wang, D.; Wang, Z.; Su, A.; Liu, Y.-H.; Su, C.-Y.
+* **Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels**  
+  *Journal of the Franklin Institute*, 2025  
+  DOI: [10.1016/j.jfranklin.2025.107523](https://doi.org/10.1016/j.jfranklin.2025.107523) | EID: 2-s2.0-85216524942  
+  Contributors: Liu, Y.-F.; Wang, D.; Wang, Z.; **Su, A.**; Liu, Y.-H.; Su, C.-Y.
 
+* **Observer-based adaptive neural network control: the convergence properties analysis under the influence of persistent excitation level**  
+  *Nonlinear Dynamics*, 2024  
+  DOI: [10.1007/s11071-024-10521-1](https://doi.org/10.1007/s11071-024-10521-1) | EID: 2-s2.0-85207622922  
+  Contributors: Zeng, C.; **Su, A.**; Chen, T.; Chen, S.-Z.  
+  [Link to Article](http://www.scopus.com/inward/record.url?eid=2-s2.0-85207622922&partnerID=MN8TOARS)
 
-Observer-based adaptive neural network control: the convergence properties analysis under the influence of persistent excitation level
-Nonlinear Dynamics
-2024 | Journal article
-DOI: 10.1007/s11071-024-10521-1
-EID: 2-s2.0-85207622922
-Part of ISSN: 1573269X 0924090X
-Contributors: Zeng, C.; Su, A.; Chen, T.; Chen, S.-Z.
-URL
-http://www.scopus.com/inward/record.url?eid=2-s2.0-85207622922&partnerID=MN8TOARS
-
-
-Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning
-14th Asian Control Conference, ASCC 2024
-2024 | Conference paper
-EID: 2-s2.0-85205740267
-Part of ISBN: 9789887581598
-Contributors: Su, A.; Chen, T.
-URL
-http://www.scopus.com/inward/record.url?eid=2-s2.0-85205740267&partnerID=MN8TOARS
+* **Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning**  
+  *14th Asian Control Conference (ASCC 2024)*, 2024  
+  EID: 2-s2.0-85205740267 | ISBN: 9789887581598  
+  Contributors: **Su, A.**; Chen, T.  
+  [Link to Article](http://www.scopus.com/inward/record.url?eid=2-s2.0-85205740267&partnerID=MN8TOARS)
 
 Contact
 ======
-eamil: antesu@mail.sdu.edu.cn
-address: School of Mechanical Engineering, Shandong University, Jinan 250002, P. R. China
+- **Email**: antesu@mail.sdu.edu.cn  
+- **Address**: School of Mechanical Engineering, Shandong University, Jinan 250002, P. R. China
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
