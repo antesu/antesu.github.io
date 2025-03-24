@@ -40,7 +40,7 @@ Experience
   * Sub-skill 2.3
 * Skill 3  -->
 
-Awards
+<!--Awards
 ======
 * Awards 1
 * Awards 2
