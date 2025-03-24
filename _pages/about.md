@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a last year undergraduate student from Shandong University. My major is ME. 
+I am a fourth-year Mechatronics student at Shandong University, specializing in control systems, mechatronic systems, and automation. With a strong foundation in embedded systems, fault identification, and dynamic simulation, I have led multiple projects, including designing high-gain learning observers for mechatronic systems and optimizing control strategies through advanced techniques.
+
+I have hands-on experience with tools like MATLAB/Simulink, SolidWorks, ANSYS, and embedded systems programming using STM32 and dSPACE. My leadership skills were honed through leading academic projects and research teams, including a top-ranked performance in the Cambridge University Summer Program, where I earned a recommendation from Prof. Jose Miguel Hernandez Lobato.
+
+I am passionate about leveraging automation and mechatronic systems to solve complex engineering challenges and look forward to advancing my expertise in these fields through further study and industry experience.
 
 Selected Publications
 ======
