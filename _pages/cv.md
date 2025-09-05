@@ -34,9 +34,7 @@ Experience
   * [Himile Group Co., Ltd.](https://www.himile.com/)
   * Feb. 2024 ‑ Mar. 2024
   * Gaomi, China
- 
-{%Skills%}
-{%Awards%}
+
 
 Publications
 ======
