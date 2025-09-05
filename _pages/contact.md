@@ -11,4 +11,4 @@ author_profile: true
   Concordia University  
   1455 De Maisonneuve Blvd. W.  
   Montreal, QC  H3G 1M8  
-  CANADA  
+  CANADA
