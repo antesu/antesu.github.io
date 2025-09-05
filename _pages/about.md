@@ -16,22 +16,22 @@ I am passionate about leveraging automation and mechatronic systems to solve com
 
 Selected Publications
 ======
+* **A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict‑Feedback Systems**  
+  *IEEE Transactions on Cybernetics*, 2025
+  Yu‑Fa Liu; Jin‑Wa Wu; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su; Renquan Lu
+
 * **Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels**  
-  *Journal of the Franklin Institute*, 2025  
-  DOI: [10.1016/j.jfranklin.2025.107523](https://doi.org/10.1016/j.jfranklin.2025.107523) | EID: 2-s2.0-85216524942  
-  Contributors: Liu, Y.-F.; Wang, D.; Wang, Z.; **Su, A.**; Liu, Y.-H.; Su, C.-Y.
+  *Journal of the Franklin Institute*, (2025): Volume 362, Issue 4, 107523.
+  Yu‑Fa Liu; Dong Wang; Zhuo Wang; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su
 
 * **Observer-based adaptive neural network control: the convergence properties analysis under the influence of persistent excitation level**  
-  *Nonlinear Dynamics*, 2024  
-  DOI: [10.1007/s11071-024-10521-1](https://doi.org/10.1007/s11071-024-10521-1) | EID: 2-s2.0-85207622922  
-  Contributors: Zeng, C.; **Su, A.**; Chen, T.; Chen, S.-Z.  
-  [Link to Article](http://www.scopus.com/inward/record.url?eid=2-s2.0-85207622922&partnerID=MN8TOARS)
-
+  *Nonlinear Dynamics*, vol. 113, pp. 8571–8587, Apr. 2025
+  Chujian Zeng; **Ante Su**; Tianrui Chen; and Si‑Zhe Chen
+  
 * **Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning**  
   *14th Asian Control Conference (ASCC 2024)*, 2024  
-  EID: 2-s2.0-85205740267 | ISBN: 9789887581598  
-  Contributors: **Su, A.**; Chen, T.  
-  [Link to Article](http://www.scopus.com/inward/record.url?eid=2-s2.0-85205740267&partnerID=MN8TOARS)
+  **Ante Su**; Tianrui Chen
+
 
 Contact
 ======
