@@ -55,9 +55,5 @@ Publications
 * **Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning**  
   *14th Asian Control Conference (ASCC 2024)*, 2024  
   **Ante Su**; Tianrui Chen
-  
-  
-{%Talks%}
-{%Teaching%}
-{%Service and leadership%}
+
 
