@@ -21,7 +21,7 @@ Education
 Experience
 ======
 * Team Leader
-  * [Cambridge University Summer Program](https://www.cam.ac.uk/) Summer Program
+  * [Cambridge University](https://www.cam.ac.uk/) Summer Program
   * Jul. 2024 ‑ Aug. 2024
   * Supervisor: Prof. [Jose Miguel Hernandez Lobato.](https://jmhl.org/)
 
