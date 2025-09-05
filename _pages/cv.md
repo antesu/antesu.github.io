@@ -16,58 +16,44 @@ Education
 
 Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Team Leader
+  * [Cambridge University Summer Program](https://www.cam.ac.uk/) Summer Program
+  * Jul. 2024 ‑ Aug. 2024
+  * Supervisor: Prof. [Jose Miguel Hernandez Lobato.](https://jmhl.org/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Intern
+  * [Shandong Lingong Construction Machinery Co., Ltd.](https://www.sdlg.com/)
+  * Mar. 2024 ‑ Apr. 2024
+  * Linyi, China
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3  
+* Intern
+  * [Himile Group Co., Ltd.](https://www.himile.com/)
+  * Feb. 2024 ‑ Mar. 2024
+  * Gaomi, China
+ 
+{%Skills%}
+{%Awards%}
 
-Awards
-======
-* Awards 1
-* Awards 2
-  * Sub-awards 2.1
-  * Sub-awards 2.2
-  * Sub-awards 2.3
-* Awards 3  
-
-* 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict‑Feedback Systems**  
+  *IEEE Transactions on Cybernetics*, 2025
+  Yu‑Fa Liu; Jin‑Wa Wu; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su; Renquan Lu
+
+* **Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels**  
+  *Journal of the Franklin Institute*, (2025): Volume 362, Issue 4, 107523.
+  Yu‑Fa Liu; Dong Wang; Zhuo Wang; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su
+
+* **Observer-based adaptive neural network control: the convergence properties analysis under the influence of persistent excitation level**  
+  *Nonlinear Dynamics*, vol. 113, pp. 8571–8587, Apr. 2025
+  Chujian Zeng; **Ante Su**; Tianrui Chen; and Si‑Zhe Chen
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>  
+* **Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning**  
+  *14th Asian Control Conference (ASCC 2024)*, 2024  
+  **Ante Su**; Tianrui Chen
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams  
+{%Talks%}
+{%Teaching%}
+{%Service and leadership%}
+
