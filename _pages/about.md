@@ -35,9 +35,9 @@ Selected Publications
 
 Contact
 ======
-- **Email**:
+- **Email**:  
   ante.su@mail.concordia.ca  
-- **Address**:
+- **Address**:  
   Gina Cody School of Engineering and Computer Science  
   Concordia University  
   1455 De Maisonneuve Blvd. W.  
