@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering<br>
-  * Concordia University
+  * [Concordia University](https://www.concordia.ca/)
   * September 2025 – Present
 * B.S. in Mechanical Engineering
-  * Shandong University
+  * [Shandong University](https://www.en.sdu.edu.cn/)
   * September 2021 – June 2025
 
 Experience
@@ -23,7 +23,7 @@ Experience
 * Team Leader
   * [Cambridge University](https://www.cam.ac.uk/) Summer Program
   * Jul. 2024 ‑ Aug. 2024
-  * Supervisor: Prof. [Jose Miguel Hernandez Lobato.](https://jmhl.org/)
+  * Supervisor: [Prof. Jose Miguel Hernandez Lobato.](https://jmhl.org/)
 
 * Intern
   * [Shandong Lingong Construction Machinery Co., Ltd.](https://www.sdlg.com/)
