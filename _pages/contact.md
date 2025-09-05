@@ -4,5 +4,11 @@ title: "Contact"
 author_profile: true
 
 ---
-- **Email**: antesu@mail.sdu.edu.cn  
-- **Address**: School of Mechanical Engineering, Shandong University, Jinan 250002, P. R. China
+- **Email**:
+  ante.su@mail.concordia.ca  
+- **Address**:
+  Gina Cody School of Engineering and Computer Science  
+  Concordia University  
+  1455 De Maisonneuve Blvd. W.  
+  Montreal, QC  H3G 1M8  
+  CANADA  
