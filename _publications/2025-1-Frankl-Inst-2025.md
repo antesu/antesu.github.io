@@ -1,7 +1,7 @@
 ---
 title: "A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict-Feedback Systems"
 collection: publications
-permalink: /publication/2025-3-Frankl-Inst-2025
+permalink: /publication/2025-1-Frankl-Inst-2025
 date: 2025-03-24
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: "Journal of the Franklin Institute"
