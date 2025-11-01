@@ -1,5 +1,5 @@
 ---
-title: "A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict-Feedback Systems"
+title: "Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels"
 collection: publications
 permalink: /publication/2025-1-Frankl-Inst-2025
 date: 2025-03-24
