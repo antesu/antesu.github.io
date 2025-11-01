@@ -2,11 +2,9 @@
 title: "A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict-Feedback Systems"
 collection: publications
 permalink: /publication/2025-neural-approximation
-excerpt: "A novel constructive approach for neural network approximation sets in adaptive control of strict-feedback systems"
 date: 2025-01-15
 venue: "IEEE Transactions on Cybernetics"
 paperurl: "https://doi.org/10.1109/TCYB.2025.xxxxxxx"
-citation: "Liu, Y.-F., Wu, J.-W., Su, A., Liu, Y.-H., Su, C.-Y., & Lu, R. (2025). A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict-Feedback Systems. IEEE Transactions on Cybernetics."
 ---
 
 ## Abstract
@@ -14,7 +12,6 @@ This paper presents a constructive approach for neural network approximation set
 
 
 ## BibTeX Citation
-```bibtex
 @article{liu2025constructive,
   title={A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict-Feedback Systems},
   author={Liu, Yu-Fa and Wu, Jin-Wa and Su, Ante and Liu, Yong-Hua and Su, Chun-Yi and Lu, Renquan},
