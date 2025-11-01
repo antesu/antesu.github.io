@@ -1,7 +1,7 @@
 ---
 title: "Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning"
 collection: publications
-category: conferences
+category: 2024
 permalink: /publication/2024-02-17-fault-identification-speed-analysis
 excerpt: 'This paper explores fault identification speed in nonlinear uncertain systems using high gain observers and deterministic learning techniques.'
 date: 2024-02-17
