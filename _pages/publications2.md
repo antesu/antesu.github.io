@@ -8,6 +8,8 @@ redirect_from:
 
 ## Journal Papers
 
+###2025
+
 * **A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict‑Feedback Systems**  
   *IEEE Transactions on Cybernetics*, 2025  
   Yu‑Fa Liu; Jin‑Wa Wu; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su; Renquan Lu  
@@ -24,24 +26,14 @@ redirect_from:
   [[PDF]](/files/paper3.pdf) [[DOI]](https://doi.org/xxx)
 
 ## Conference Papers
-
+###2024
 * **Fault Identification Speed Analysis for a Class of Nonlinear Uncertain Systems Using High Gain Observer and Deterministic Learning**  
   *14th Asian Control Conference (ASCC 2024)*, 2024  
   **Ante Su**; Tianrui Chen  
-  [[PDF]](/files/paper4.pdf) [[Slides]](/files/slides4.pdf) [[Video]](https://youtube.com/xxx)
-
-## Under Review
-
-* **Intelligent Fault Diagnosis for Industrial Robotics Using Deep Learning and Multi-sensor Fusion**  
-  *Submitted to IEEE/ASME Transactions on Mechatronics*, 2024  
-  **Ante Su**; Yu-Fa Liu; Renquan Lu
-
-## Technical Reports
-
-* **Design and Implementation of Smart Monitoring System for Industrial Equipment**  
-  *Shandong University Technical Report*, 2024  
-  **Ante Su**; Research Team  
-  [[Report]](/files/technical_report1.pdf)
+  [[PDF]](/files/paper2.pdf) 
+  [[DOI]](https://doi.org/xxx)
+  [[Details]](/publication/2025-adaptive-learning)
+  [[Video]](https://youtube.com/xxx)
 
 ---
 
