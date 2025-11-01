@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+author_profile: false
 redirect_from:
   - /publications.html
 ---
@@ -13,7 +13,9 @@ redirect_from:
 * **A Constructive Approach for Neural Network Approximation Sets in Adaptive Control of Strict‑Feedback Systems**  
   *IEEE Transactions on Cybernetics*, 2025  
   Yu‑Fa Liu; Jin‑Wa Wu; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su; Renquan Lu  
-  [[PDF]](/files/paper1.pdf) [[DOI]](https://doi.org/xxx) <!-- 添加实际链接 -->
+  [[PDF]](/files/paper1.pdf) [[DOI]](https://doi.org/xxx)
+  [[Details]](/publication/2009-10-01-paper-title-number-1)
+
 
 * **Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels**  
   *Journal of the Franklin Institute*, (2025): Volume 362, Issue 4, 107523.  
