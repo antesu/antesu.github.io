@@ -25,8 +25,11 @@ redirect_from:
   [[BibTeX]](/publication/2025-1-Frankl-Inst-2025)
   [[Details]](/publication/2025-1-Frankl-Inst-2025)
 
+
+### 2024
+
 * **Observer-based adaptive neural network control: the convergence properties analysis under the influence of persistent excitation level**  
-  *Nonlinear Dynamics*, vol. 113, pp. 8571–8587, Apr. 2025  
+  *Nonlinear Dynamics*, vol. 113, pp. 8571–8587, Apr. 2024  
   Chujian Zeng; **Ante Su**; Tianrui Chen; and Si‑Zhe Chen  
   [[PDF]](/files/paper2.pdf) 
   [[BibTeX]](/publication/2024-2-NODY-2024)
