@@ -14,22 +14,22 @@ redirect_from:
   *IEEE Transactions on Cybernetics*, 2025  
   Yu‑Fa Liu; Jin‑Wa Wu; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su; Renquan Lu  
   [[PDF]](/files/paper1.pdf) 
-  [[Bibitex]](/publication/2009-10-01-paper-title-number-1)
-  [[Details]](/publication/2009-10-01-paper-title-number-1)
+  [[BibTeX]](/publication/2025-neural-approximation)
+  [[Details]](/publication/2025-neural-approximation)
 
 
 * **Adaptive locally weighted learning tracking control for a class of unknown strict-feedback nonlinear systems via differentiable higher order kernels**  
   *Journal of the Franklin Institute*, (2025): Volume 362, Issue 4, 107523.  
   Yu‑Fa Liu; Dong Wang; Zhuo Wang; **Ante Su**; Yong‑Hua Liu; Chun‑Yi Su  
   [[PDF]](/files/paper2.pdf) 
-  [[Bibitex]](/publication/2009-10-01-paper-title-number-1)
+  [[BibTeX]](/publication/2009-10-01-paper-title-number-1)
   [[Details]](/publication/2009-10-01-paper-title-number-1)
 
 * **Observer-based adaptive neural network control: the convergence properties analysis under the influence of persistent excitation level**  
   *Nonlinear Dynamics*, vol. 113, pp. 8571–8587, Apr. 2025  
   Chujian Zeng; **Ante Su**; Tianrui Chen; and Si‑Zhe Chen  
   [[PDF]](/files/paper2.pdf) 
-  [[Bibitex]](/publication/2009-10-01-paper-title-number-1)
+  [[BibTeX]](/publication/2009-10-01-paper-title-number-1)
   [[Details]](/publication/2009-10-01-paper-title-number-1)
 
 ## Conference Papers
@@ -38,7 +38,7 @@ redirect_from:
   *14th Asian Control Conference (ASCC 2024)*, 2024  
   **Ante Su**; Tianrui Chen  
   [[PDF]](/files/paper2.pdf) 
-  [[Bibitex]](/publication/2009-10-01-paper-title-number-1)
+  [[BibTeX]](/publication/2009-10-01-paper-title-number-1)
   [[Details]](/publication/2009-10-01-paper-title-number-1)
 
 
