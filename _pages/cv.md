@@ -11,9 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering<br>
-  * [Concordia University](https://www.concordia.ca/)
-  * September 2025 – Present
 * B.S. in Mechanical Engineering
   * [Shandong University](https://www.en.sdu.edu.cn/)
   * September 2021 – June 2025
