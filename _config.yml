@@ -25,13 +25,13 @@ author:
   avatar           : "antesu_profile.png"
   name             : "Ante Su" #Your Sidebar Name
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Mechanical Engineering" #"Short biography for the left-hand sidebar" "PhD Student in Mechanical Engineering"
-  location         : "Montreal, Canada" 
+  bio              : "Recently graduated with a bachelor's degree in Mechanical Engineering" #"Short biography for the left-hand sidebar" "PhD Student in Mechanical Engineering"
+  location         : "China" 
   
   #"Department of Mechanical, Industrial and Aerospace Engineering, Concordia University, Montreal, QC H3G 1M8, Canada"
-  employer         : "Concordia University" #"Concordia University"
+  employer         : "Shandong University" #"Concordia University"
   uri              : # URL
-  email            : "ante.su@mail.concordia.ca" 
+  email            : "antesu@mail.sdu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
